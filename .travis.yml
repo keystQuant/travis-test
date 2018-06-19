@@ -19,3 +19,5 @@ matrix:
 notifications:
   email:
     - keystQuant@gmail.com
+  on_success: always
+  on_failure: always
