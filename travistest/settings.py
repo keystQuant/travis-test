@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'story',
+    'novel',
 ]
 
 MIDDLEWARE = [
