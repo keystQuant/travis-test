@@ -1,0 +1,3 @@
+[
+  "tests/story_model_tests.py::test_app_can_create_story_data"
+]
